@@ -9,8 +9,3 @@ end
 
 
 display_board
-
-
-
-
-
